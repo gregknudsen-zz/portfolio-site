@@ -1,7 +1,7 @@
 let siteMetadata = {
-    title: `Elemental`,
+    title: `Greg Knudsen`,
     capitalizeTitleOnHome: true,
-    logo: `/images/logo.png`,
+    logo: `/images/greg-dev-logo-dark-bg.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
     introTag: ``,

@@ -9,12 +9,12 @@ class PortfolioItem extends React.Component {
             <div className="item col s12">
                 <div className="row flex">
                     <div className="col m6 image">
-                        <Img
+                        {/* <Img
                             fluid={
                                 this.props.data.node.frontmatter.image
                                     .childImageSharp.fluid
                             }
-                        />
+                        /> */}
                         <Link
                             to={this.props.data.node.fields.slug}
                             title={this.props.data.node.frontmatter.title}
